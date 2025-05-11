@@ -1,6 +1,8 @@
+![image alt](https://github.com/razak7864/RestFul-Api-s/blob/main/Project%20Thumbnail.png?raw=true)
+
+
 🎓 Student Management RESTful API – Spring Boot Project
 =================================================
-
 
 
 A 🚀 beginner-friendly yet powerful application to manage student records using Spring Boot, MySQL, and RESTful APIs. Designed to perform complete CRUD operations with clean architecture and real-world practices.
